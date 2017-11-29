@@ -24,6 +24,7 @@
             </constraints>
             <properties>
               <font size="24"/>
+              <horizontalAlignment value="4"/>
             </properties>
           </component>
           <component id="3474" class="javax.swing.JTextField" binding="resultTextField">
@@ -34,6 +35,7 @@
             </constraints>
             <properties>
               <font size="20"/>
+              <horizontalAlignment value="4"/>
             </properties>
           </component>
         </children>
